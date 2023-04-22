@@ -173,5 +173,96 @@
     "Valence": 2,
     "Atom Mass": 54.938044,
     "Element Characteristics English": ""
+  },
+  "Fe": {
+    "English name": "Iron",
+    "Atom number": 26,
+    "Valence": 2,
+    "Atom Mass": 55.845,
+    "Element Characteristics English": ""
+  },
+  "Co": {
+    "English name": "Cobalt",
+    "Atom number": 27,
+    "Valence": 2,
+    "Atom Mass": 58.933195,
+    "Element Characteristics English": ""
+  },
+  "Ni": {
+    "English name": "Mickel",
+    "Atom number": 28,
+    "Valence": 2,
+    "Atom Mass": 58.6934,
+    "Element Characteristics English": ""
+  },
+  "Cu": {
+    "English name": "Copper",
+    "Atom number": 29,
+    "Valence": 1,
+    "Atom Mass": 63.546,
+    "Element Characteristics English": ""
+  },
+  "Zn": {
+    "English name": "Zinc",
+    "Atom number": 30,
+    "Valence": 2,
+    "Atom Mass": 65.38,
+    "Element Characteristics English": ""
+  },
+  "Ga": {
+    "English name": "Gallium",
+    "Atom number": 31,
+    "Valence": 3,
+    "Atom Mass": 69.723,
+    "Element Characteristics English": ""
+  },
+  "Ge": {
+    "English name": "Germanium",
+    "Atom number": 32,
+    "Valence": 4,
+    "Atom Mass": 72.64,
+    "Element Characteristics English": ""
+  },
+  "As": {
+    "English name": "Arsenic",
+    "Atom number": 33,
+    "Valence": 3,
+    "Atom Mass": 74.9216,
+    "Element Characteristics English": ""
+  },
+  "Se": {
+    "English name": "Selenium",
+    "Atom number": 34,
+    "Valence": 4,
+    "Atom Mass": 78.96,
+    "Element Characteristics English": ""
+  },
+  "Br": {
+    "English name": "Bromine",
+    "Atom number": 35,
+    "Valence": 1,
+    "Atom Mass": 79.904,
+    "Element Characteristics English": ""
+  },
+  "Kr": {
+    "English name": "Krypton",
+    "Atom number": 36,
+    "Valence": 0,
+    "Atom Mass": 83.798,
+    "Element Characteristics English": ""
+  },
+  "Rb": {
+    "English name": "Rubidium",
+    "Atom number": 37,
+    "Valence": 1,
+    "Atom Mass": 85.4678,
+    "Element Characteristics English": ""
+  },
+  "Sr": {
+    "English name": "Strontium",
+    "Atom number": 38,
+    "Valence": 2,
+    "Atom Mass": 87.62,
+    "Element Characteristics English": ""
   }
 }
