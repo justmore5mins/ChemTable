@@ -18,10 +18,9 @@ def addElements(Element_Symbol:str,Element_English_name:str,Atom_Number:int, Ele
         data = str(data)
         data = data[:-2]
         data = data+ ","
+        filewrite.truncate(0)
         filewrite.write("\n")
-    
-    with open(filepath,"w",encoding="utf-8") as file:
-        file.write(data)
+
         
     with open(filepath,"a+",encoding="utf-8") as file:
         dump(element_data,file,indent=2)
