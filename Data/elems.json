@@ -1,8 +1,156 @@
 {
+  "H": {
+    "English name": "Hydrogen",
+    "Atom number": 1,
+    "Valence": 1,
+    "Atom Mass": 1.00784,
+    "Element Characteristics English": ""
+  },
   "He": {
     "English name": "Helium",
-    "Atom number": "2",
-    "Element Characteristics English": "",
-    "Element Characteristics Chinese": ""
+    "Atom number": 2,
+    "Valence": 0,
+    "Atom Mass": 4.002602,
+    "Element Characteristics English": ""
+  },
+  "Li": {
+    "English name": "Lithium",
+    "Atom number": 3,
+    "Valence": 1,
+    "Atom Mass": 6.941,
+    "Element Characteristics English": ""
+  },
+  "Be": {
+    "English name": "Beryllium",
+    "Atom number": "4",
+    "Valence": 2,
+    "Atom Mass": 9.012182,
+    "Element Characteristics English": ""
+  },
+  "B": {
+    "English name": "Boron",
+    "Atom number": 5,
+    "Valence": 3,
+    "Atom Mass": 10.811,
+    "Element Characteristics English": ""
+  },
+  "C": {
+    "English name": "Carbon",
+    "Atom number": 6,
+    "Valence": 0,
+    "Atom Mass": 12.0107,
+    "Element Characteristics English": ""
+  },
+  "N": {
+    "English name": "Nitrogen",
+    "Atom number": 7,
+    "Valence": 0,
+    "Atom Mass": 14.0067,
+    "Element Characteristics English": ""
+  },
+  "O": {
+    "English name": "Oxygen",
+    "Atom number": 8,
+    "Valence": 0,
+    "Atom Mass": 15.999,
+    "Element Characteristics English": ""
+  },
+  "F": {
+    "English name": "Fluorine",
+    "Atom number": 9,
+    "Valence": -1,
+    "Atom Mass": 18.9984032,
+    "Element Characteristics English": ""
+  },
+  "Ne": {
+    "English name": "Neon",
+    "Atom number": 10,
+    "Valence": 0,
+    "Atom Mass": 20.1797,
+    "Element Characteristics English": ""
+  },
+  "Na": {
+    "English name": "Sodium",
+    "Atom number": 11,
+    "Valence": 1,
+    "Atom Mass": 22.98976928,
+    "Element Characteristics English": ""
+  },
+  "Mg": {
+    "English name": "Magnesium",
+    "Atom number": 12,
+    "Valence": 2,
+    "Atom Mass": 24.305,
+    "Element Characteristics English": ""
+  },
+  "Al": {
+    "English name": "Aluminium",
+    "Atom number": 13,
+    "Valence": 3,
+    "Atom Mass": 26.9815386,
+    "Element Characteristics English": ""
+  },
+  "Si": {
+    "English name": "Silicon",
+    "Atom number": 14,
+    "Valence": 4,
+    "Atom Mass": 28.0855,
+    "Element Characteristics English": ""
+  },
+  "P": {
+    "English name": "Phosphorus",
+    "Atom number": 15,
+    "Valence": 3,
+    "Atom Mass": 30.973762,
+    "Element Characteristics English": ""
+  },
+  "S": {
+    "English name": "Sulfur",
+    "Atom number": 16,
+    "Valence": 2,
+    "Atom Mass": 32.065,
+    "Element Characteristics English": ""
+  },
+  "Cl": {
+    "English name": "Chlorine",
+    "Atom number": 17,
+    "Valence": -1,
+    "Atom Mass": 35.453,
+    "Element Characteristics English": ""
+  },
+  "Ar": {
+    "English name": "Argon",
+    "Atom number": 18,
+    "Valence": 0,
+    "Atom Mass": 39.948,
+    "Element Characteristics English": ""
+  },
+  "K": {
+    "English name": "Potassium",
+    "Atom number": 19,
+    "Valence": 1,
+    "Atom Mass": 39.0983,
+    "Element Characteristics English": ""
+  },
+  "Ca": {
+    "English name": "Calcium",
+    "Atom number": 20,
+    "Valence": 2,
+    "Atom Mass": 40.078,
+    "Element Characteristics English": ""
+  },
+  "Sc": {
+    "English name": "Scandium",
+    "Atom number": 21,
+    "Valence": 3,
+    "Atom Mass": 44.955912,
+    "Element Characteristics English": ""
+  },
+  "Ti": {
+    "English name": "Titanium",
+    "Atom number": 22,
+    "Valence": 2,
+    "Atom Mass": 47.867,
+    "Element Characteristics English": ""
   }
 }
