@@ -152,5 +152,26 @@
     "Valence": 2,
     "Atom Mass": 47.867,
     "Element Characteristics English": ""
+  },
+  "V": {
+    "English name": "Vanadium",
+    "Atom number": 23,
+    "Valence": 2,
+    "Atom Mass": 50.9415,
+    "Element Characteristics English": ""
+  },
+  "Cr": {
+    "English name": "Chromium",
+    "Atom number": 24,
+    "Valence": 2,
+    "Atom Mass": 51.9961,
+    "Element Characteristics English": ""
+  },
+  "Mn": {
+    "English name": "Manganese",
+    "Atom number": 25,
+    "Valence": 2,
+    "Atom Mass": 54.938044,
+    "Element Characteristics English": ""
   }
 }
